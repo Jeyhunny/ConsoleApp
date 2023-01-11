@@ -1,0 +1,17 @@
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\obj\Debug\net6.0\ServincesLayer.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\obj\Debug\net6.0\ServincesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\obj\Debug\net6.0\ServincesLayer.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\obj\Debug\net6.0\ServincesLayer.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\obj\Debug\net6.0\ServincesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\bin\Debug\net6.0\ServincesLayer.deps.json
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\bin\Debug\net6.0\ServincesLayer.dll
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\bin\Debug\net6.0\ServincesLayer.pdb
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\obj\Debug\net6.0\ServincesLayer.csproj.CopyComplete
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\obj\Debug\net6.0\ServincesLayer.dll
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\obj\Debug\net6.0\refint\ServincesLayer.dll
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\obj\Debug\net6.0\ServincesLayer.pdb
+C:\Users\Acer\Desktop\C#\Pratica LibraryApp\ConsoleApp1\ServincesLayer\obj\Debug\net6.0\ref\ServincesLayer.dll
